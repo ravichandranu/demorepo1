@@ -1,0 +1,7 @@
+D:\Course\GitPractice\StudentFirstDemo\StudentFirstDemo\bin\Debug\StudentFirstDemo.exe.config
+D:\Course\GitPractice\StudentFirstDemo\StudentFirstDemo\bin\Debug\StudentFirstDemo.exe
+D:\Course\GitPractice\StudentFirstDemo\StudentFirstDemo\bin\Debug\StudentFirstDemo.pdb
+D:\Course\GitPractice\StudentFirstDemo\StudentFirstDemo\obj\Debug\StudentFirstDemo.csproj.AssemblyReference.cache
+D:\Course\GitPractice\StudentFirstDemo\StudentFirstDemo\obj\Debug\StudentFirstDemo.csproj.CoreCompileInputs.cache
+D:\Course\GitPractice\StudentFirstDemo\StudentFirstDemo\obj\Debug\StudentFirstDemo.exe
+D:\Course\GitPractice\StudentFirstDemo\StudentFirstDemo\obj\Debug\StudentFirstDemo.pdb
